@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+}
+
+
+
+.box {
+    box-shadow: 5px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+   background-color: #ffffff;
+   width: 700px;
+   padding: 30px;
+   margin-left: 450px;
+   border-radius: 10px;
+   background-image: url(/images/bicycle.png);
+   height: 550px;
+   background-position: -4px 250px;
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+.text {
+    text-align: center;
+}
+.div1 {
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+
+.hh{
+    color: #9b9b9b;
+}
+
+.wir{
+color: #cecbcb;
+}
+
